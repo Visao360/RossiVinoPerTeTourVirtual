@@ -37,8 +37,8 @@
   }
  ],
  "name": "Rossi Vino Per Te",
- "background_color": "#6B143B",
  "display": "fullscreen",
  "start_url": "index.htm?installed=true",
- "theme_color": "#6B143B"
+ "theme_color": "#6B143B",
+ "background_color": "#6B143B"
 }
